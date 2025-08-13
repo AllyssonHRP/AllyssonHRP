@@ -32,11 +32,13 @@
           
 <img 
   align="left" 
-  alt="Node.JS"
-  title="Node.JS" 
+  alt="Java Script"
+  title="Java Script" 
   width="30px" 
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/> <br>
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+
+  <img width="30px" alt="Html" src="https://github.com/user-attachments/assets/726b5f41-af3f-4c6c-ba9e-46465fa91d36"/>
 
 
 
